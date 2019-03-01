@@ -1,3 +1,5 @@
+# Usage: ./watch.sh python plot_block.py tablename time_interval
+
 while :; 
   do 
   clear
